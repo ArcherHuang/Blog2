@@ -51,13 +51,13 @@
 
 ## DevOps
 [Back](#目錄)
-* 透過 GitHub Pages 服務發佈靜態網頁 [【 Link 】](https://learningsky.io/devops-tou-guo-github-pages-fu-wu-fa-bu-jing-tai-wang-ye/)
-* 透過指令模式進行 Clone 與 Push 操作 - Windows [【 Link 】](https://learningsky.io/devops/)
-* 透過指令模式進行 Clone 與 Push 操作 - macOS [【 Link 】](https://learningsky.io/devops-2/)
-* 透過 Visual Studio Code 進行 Clone 與 Push 操作 - Windows [【 Link 】](https://learningsky.io/devops-3/)
-* 透過 Visual Studio Code 進行 Clone 與 Push 操作 - macOS [【 Link 】](https://learningsky.io/devops-4/)
-* 部署 MongoDB 版的網頁到 Heroku [【 Link 】](https://learningsky.io/devops-5/)
-* 將 GitHub 上的 Sub Repository 網頁部署到 Heroku - MongoDB [【 Link 】](https://learningsky.io/devops-jiang-github-shang-de-sub-repository-wang-ye-bu-shu-dao-heroku/)
+* 透過 GitHub Pages 服務發佈靜態網頁 [【 Link 】](https://learningsky.io/github-pages-to-publish-static-website/)
+* 透過指令模式進行 Clone 與 Push 操作 - Windows [【 Link 】](https://learningsky.io/command-line-cli-to-clone-push-windows/)
+* 透過指令模式進行 Clone 與 Push 操作 - macOS [【 Link 】](https://learningsky.io/command-line-cli-to-clone-push-macos/)
+* 透過 Visual Studio Code 進行 Clone 與 Push 操作 - Windows [【 Link 】](https://learningsky.io/visual-studio-code-vs-code-to-clone-push-windows/)
+* 透過 Visual Studio Code 進行 Clone 與 Push 操作 - macOS [【 Link 】](https://learningsky.io/visual-studio-code-vs-code-to-clone-push-macos/)
+* 部署 MongoDB 版的網頁到 Heroku [【 Link 】](https://learningsky.io/deploy-mongodb-website-to-heroku/)
+* 將 GitHub 上的 Sub Repository 網頁部署到 Heroku - MongoDB [【 Link 】](https://learningsky.io/deploy-github-sub-repository-to-heroku-mongodb/)
 
 ## Tools
 [Back](#目錄)
