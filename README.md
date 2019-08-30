@@ -35,6 +35,7 @@
 * 創建 Cosmos DB [【 Link 】](https://learningsky.io/create-azure-cosmos-db/)
 
 ## Front-end & Back-end
+* 透過 express 設定與取得 Heroku Redis 數據 [【 Link 】](https://learningsky.io/node-js-express-heroku-redis/)
 
 ## JavaScript & Node.js
 * 利用 .env 與環境變數隱藏敏感資訊 [【 Link 】](https://learningsky.io/use-environmental-variables-to-hide-sensitive-information/)
