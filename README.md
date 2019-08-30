@@ -10,8 +10,8 @@
 - [AIoT](#aiot)
 - [Blockchain](#blockchain)
 - [Cloud Platform](#cloud-platform)
-- [Front-end & Back-end](#docker)
-- [JavaScript & Node.js](#docker)
+- [Front-end & Back-end](##front-end--back-end)
+- [JavaScript & Node.js](#javascript--nodejs)
 - [DevOps](#devops)
 - [Tools](#tools)
 
