@@ -34,6 +34,7 @@
 * 透過產品金鑰增加 Azure 信用額度 [【 Link 】](https://learningsky.io/azure-add-credits/)
 * 創建 Cosmos DB [【 Link 】](https://learningsky.io/create-azure-cosmos-db/)
 * 透過 Azure IoT Hub 接收機台端傳送的數據再經由 Azure Function 存入 Azure Cosmos DB [【 Link 】](https://learningsky.io/send-telemetry-messages-from-azure-iot-hub-to-cosmos-db-using-azure-functions/)
+* 透過 Azure Functions 探索 Azure Cosmos DB - 使用 Windows OS & Web UI [【 Link 】](https://learningsky.io/windows-web-ui-nodejs-integrating-serverless-architecture-using-azure-functions-cosmos-db-postman/)
 
 ## Front-end & Back-end
 * 透過 express 設定與取得 Heroku Redis 數據 [【 Link 】](https://learningsky.io/node-js-express-heroku-redis/)
